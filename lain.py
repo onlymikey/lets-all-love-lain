@@ -1,0 +1,1 @@
+print("Lain is love, lain is life")
